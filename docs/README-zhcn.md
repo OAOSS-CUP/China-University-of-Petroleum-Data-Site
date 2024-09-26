@@ -5,7 +5,7 @@
 
 🥇 前无古人 后有来者 ☕
 
-[English](README.md)  | **简体中文**
+[English](/README.md)  | **简体中文**
 
 </div>
 
