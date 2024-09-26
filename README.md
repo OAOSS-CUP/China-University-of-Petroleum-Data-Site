@@ -3,7 +3,7 @@
 # China-University-of-Petroleum-Data-Site (CUPDS)
 <hr>
 
-🥇 Dedicated to collecting all data from the CUP. ☕
+🥇 Unprecedented, but latecomers.  ☕
 
 **English**  | [简体中文](/docs/README-zhcn.md)
 
