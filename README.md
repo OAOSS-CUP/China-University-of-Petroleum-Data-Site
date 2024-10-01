@@ -19,6 +19,10 @@ Here is our concise plan. If you have any questions or suggestions, please feel 
 
 ## Learning 
 
+### Before the Beginning
+
+Install [Typora](https://github.com/OAOSS-CUP/Typora). Learn the basic syntax of Markdown.
+
 ### Early stage
 
 Everyone starts from the front-end, and after learning the basic content, they begin to distinguish between the front-end group and the back-end group. The front-end group starts practicing (starting with some simple things), while the back-end group starts learning the back-end (which may require more effort).
